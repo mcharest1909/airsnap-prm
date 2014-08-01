@@ -1,4 +1,2 @@
-airsnap-prm
-===========
-
-Product Relationship Management
+# testProject
+### a Sails application
